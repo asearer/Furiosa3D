@@ -11,6 +11,10 @@ This project demonstrates a 3D animated poster for the upcoming movie *Furiosa*.
 - **Responsive Design**: The poster adapts to different screen orientations, scaling down slightly in landscape mode for an optimal viewing experience.
 - **Dynamic Text Effects**: Text elements have a unique look with textured backgrounds and blending modes, enhancing their appearance.
 
+## Live Demo
+
+You can view the live demo of the 3D animated poster [here](https://asearer.github.io/Furiosa3D/).
+
 ## Files
 
 - **index.html**: Contains the structure of the poster, including headings, images, and text content.
@@ -18,11 +22,13 @@ This project demonstrates a 3D animated poster for the upcoming movie *Furiosa*.
 
 ## Usage
 
-To view the 3D animated poster:
+To view the 3D animated poster locally:
 
 1. Clone or download the repository.
 2. Open `index.html` in your web browser.
 3. The poster will be displayed with animations and 3D effects.
+
+Alternatively, you can view the live demo directly through the provided link.
 
 ## Code Structure
 
@@ -41,4 +47,5 @@ To view the 3D animated poster:
 ## Dependencies
 
 - The project relies on external resources hosted via JSDelivr for fonts and images.
+
 
